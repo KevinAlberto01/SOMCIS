@@ -20,4 +20,8 @@ touch talker.py
 sudo chmod +x talker.py
 
 
+Crear un listener Node
 
+cd ~/catkin_ws/src/somcis
+touch listener.py
+sudo chmod +x listener.py
